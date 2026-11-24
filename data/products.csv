@@ -1,0 +1,222 @@
+ProductId,Brand,ProductCategory,ProductName
+P0001,IKEA,Sofa,EKHOLMA
+P0002,IKEA,Sofa,EKTORP
+P0003,IKEA,Sofa,GLOSTAD
+P0004,IKEA,Sofa,GULLVALLA
+P0005,IKEA,Sofa,HYLTARP
+P0006,IKEA,Sofa,JAETTEBO
+P0007,IKEA,Sofa,KIVIK
+P0008,IKEA,Sofa,KLIPPAN
+P0009,IKEA,Sofa,LANDSKRONA
+P0010,IKEA,Sofa,MANNARP
+P0011,IKEA,Sofa,SALTMYRAN
+P0012,IKEA,Sofa,SALTSJOEBADEN
+P0013,IKEA,Sofa,SOEDERHAMN
+P0014,IKEA,Sofa,STOCKHOLM
+P0015,IKEA,Sofa,VIMLE
+P0016,IKEA,Dining Table,ALHULT
+P0017,IKEA,Dining Table,BERGSHYTTAN
+P0018,IKEA,Dining Table,DANDERYD
+P0019,IKEA,Dining Table,HAUGA
+P0020,IKEA,Dining Table,KARSKAER
+P0021,IKEA,Dining Table,LISABO
+P0022,IKEA,Dining Table,PINNTORP
+P0023,IKEA,Dining Table,ROSENTORP
+P0024,IKEA,Dining Table,SANDSBERG
+P0025,IKEA,Dining Table,SKALSTA
+P0026,IKEA,Dining Table,SKANSNAES
+P0027,IKEA,Dining Table,STOCKHOLM
+P0028,IKEA,Dining Table,TARSELE
+P0029,IKEA,Dining Table,TONSTAD
+P0030,IKEA,Dining Table,VIHALS
+P0031,IKEA,Dining Chair,GROENSTA
+P0032,IKEA,Dining Chair,KRYLBO
+P0033,IKEA,Dining Chair,LISABO
+P0034,IKEA,Dining Chair,MADONNALILJA
+P0035,IKEA,Dining Chair,MALOERTSMOTT
+P0036,IKEA,Dining Chair,NAESINGE
+P0037,IKEA,Dining Chair,NORDMANSSKAER
+P0038,IKEA,Dining Chair,ODGER
+P0039,IKEA,Dining Chair,PINNTORP
+P0040,IKEA,Dining Chair,ROSENTORP
+P0041,IKEA,Dining Chair,SANDSBERG
+P0042,IKEA,Dining Chair,SKOGSTA
+P0043,IKEA,Dining Chair,TEODORES
+P0044,IKEA,Dining Chair,TOBIAS
+P0045,IKEA,Dining Chair,TOSSBERG
+P0046,IKEA,Bed Frame,BRIMNES
+P0047,IKEA,Bed Frame,FLEKKE
+P0048,IKEA,Bed Frame,HEMNES
+P0049,IKEA,Bed Frame,KLIPPUGGLA
+P0050,IKEA,Bed Frame,KRITTER
+P0051,IKEA,Bed Frame,MALM
+P0052,IKEA,Bed Frame,MINNEN
+P0053,IKEA,Bed Frame,NORDLI
+P0054,IKEA,Bed Frame,SLAEKT
+P0055,IKEA,Bed Frame,SMASTAD
+P0056,IKEA,Bed Frame,SMYGA
+P0057,IKEA,Bed Frame,SNIGLAR
+P0058,IKEA,Bed Frame,TUFFING
+P0059,IKEA,Bed Frame,VIHALS
+P0060,IKEA,Bed Frame,VITVAL
+P0061,IKEA,Mattress,GLAMBERGET
+P0062,IKEA,Mattress,LYNGOER
+P0063,IKEA,Mattress,MALM
+P0064,IKEA,Mattress,NORDLI
+P0065,IKEA,Mattress,NYHAMN
+P0066,IKEA,Mattress,TAELLASEN
+P0067,IKEA,Mattress,UTAKER
+P0068,IKEA,Mattress,VADSOE
+P0069,IKEA,Mattress,VAGSTRANDA
+P0070,IKEA,Mattress,VALEVAG
+P0071,IKEA,Mattress,VANNAREID
+P0072,IKEA,Mattress,VATNESTROEM
+P0073,IKEA,Mattress,VESTEROEY
+P0074,IKEA,Mattress,VESTMARKA
+P0075,IKEA,Mattress,VIHALS
+P0076,Mio,Sofa,Bella
+P0077,Mio,Sofa,Bella Grande
+P0078,Mio,Sofa,Bellora
+P0079,Mio,Sofa,Bridge
+P0080,Mio,Sofa,County
+P0081,Mio,Sofa,Eden
+P0082,Mio,Sofa,Harper
+P0083,Mio,Sofa,Lazy
+P0084,Mio,Sofa,Madison
+P0085,Mio,Sofa,Mila
+P0086,Mio,Sofa,Noma
+P0087,Mio,Sofa,Rossi
+P0088,Mio,Sofa,Tage
+P0089,Mio,Sofa,Town
+P0090,Mio,Sofa,Winston
+P0091,Mio,Dining Table,Amina
+P0092,Mio,Dining Table,Arino
+P0093,Mio,Dining Table,Astrid
+P0094,Mio,Dining Table,Eastwood
+P0095,Mio,Dining Table,Eastwood live
+P0096,Mio,Dining Table,Ekerö
+P0097,Mio,Dining Table,Harry
+P0098,Mio,Dining Table,Judit
+P0099,Mio,Dining Table,Mattina
+P0100,Mio,Dining Table,Moa
+P0101,Mio,Dining Table,Nomad
+P0102,Mio,Dining Table,Santos
+P0103,Mio,Dining Table,Sixten
+P0104,Mio,Dining Table,Veneto
+P0105,Mio,Dining Table,Woodenforge
+P0106,Mio,Dining Chair,Benjamin
+P0107,Mio,Dining Chair,Carol
+P0108,Mio,Dining Chair,Delta
+P0109,Mio,Dining Chair,Dora
+P0110,Mio,Dining Chair,Ekerö
+P0111,Mio,Dining Chair,Ingrid
+P0112,Mio,Dining Chair,Jack
+P0113,Mio,Dining Chair,Juna
+P0114,Mio,Dining Chair,Lauren
+P0115,Mio,Dining Chair,Leon
+P0116,Mio,Dining Chair,Ludvig
+P0117,Mio,Dining Chair,Rasmus
+P0118,Mio,Dining Chair,Santos
+P0119,Mio,Dining Chair,Sixten
+P0120,Mio,Dining Chair,Tracy
+P0121,Mio,Bed Frame,Cape Selene
+P0122,Mio,Bed Frame,Delux Dream
+P0123,Mio,Bed Frame,Delux Exclusive
+P0124,Mio,Bed Frame,Delux Sense
+P0125,Mio,Bed Frame,Feel
+P0126,Mio,Bed Frame,Feel Comfort
+P0127,Mio,Bed Frame,Feel Exclusive
+P0128,Mio,Bed Frame,Ljusdal
+P0129,Mio,Bed Frame,Miami Night
+P0130,Mio,Bed Frame,New York
+P0131,Mio,Bed Frame,Sandby
+P0132,Mio,Bed Frame,Sandhamn
+P0133,Mio,Bed Frame,Särö Exclusive
+P0134,Mio,Bed Frame,Änga
+P0135,Mio,Bed Frame,Änga Exclusive
+P0136,Mio,Mattress,Cape Selene
+P0137,Mio,Mattress,Cape Selene Pro Luxe Smart Cool
+P0138,Mio,Mattress,Cape Selene Pro Plus Smart Cool
+P0139,Mio,Mattress,Delux Cool Comfort
+P0140,Mio,Mattress,Delux Exclusive
+P0141,Mio,Mattress,Delux Sense
+P0142,Mio,Mattress,Delux Sense VIP
+P0143,Mio,Mattress,Delux Sleep
+P0144,Mio,Mattress,Delux Sleep VIP
+P0145,Mio,Mattress,Luna
+P0146,Mio,Mattress,Roma Family
+P0147,Chilli,Sofa,Arken Lyx
+P0148,Chilli,Sofa,Bergen
+P0149,Chilli,Sofa,Chesterfield
+P0150,Chilli,Sofa,Copenhagen
+P0151,Chilli,Sofa,Hagblom
+P0152,Chilli,Sofa,Havana
+P0153,Chilli,Sofa,Leia
+P0154,Chilli,Sofa,Lovis
+P0155,Chilli,Sofa,Marlow
+P0156,Chilli,Sofa,Menard
+P0157,Chilli,Sofa,Milano
+P0158,Chilli,Sofa,Peppe
+P0159,Chilli,Sofa,Rossita
+P0160,Chilli,Sofa,Valencia
+P0161,Chilli,Sofa,Visby
+P0162,Chilli,Dining Table,Alma
+P0163,Chilli,Dining Table,Arvo
+P0164,Chilli,Dining Table,DIJON
+P0165,Chilli,Dining Table,Edda
+P0166,Chilli,Dining Table,Juno
+P0167,Chilli,Dining Table,Kopparbo
+P0168,Chilli,Dining Table,Lyon
+P0169,Chilli,Dining Table,Marcelen
+P0170,Chilli,Dining Table,Noira
+P0171,Chilli,Dining Table,Peyra
+P0172,Chilli,Dining Table,Richeto
+P0173,Chilli,Dining Table,Siena
+P0174,Chilli,Dining Table,Tyrö
+P0175,Chilli,Dining Table,Uppveda
+P0176,Chilli,Dining Table,Vera
+P0177,Chilli,Dining Chair,Build
+P0178,Chilli,Dining Chair,Dastoori
+P0179,Chilli,Dining Chair,Filip
+P0180,Chilli,Dining Chair,Gemmiano
+P0181,Chilli,Dining Chair,Greya
+P0182,Chilli,Dining Chair,Lucy
+P0183,Chilli,Dining Chair,Milva
+P0184,Chilli,Dining Chair,Molly
+P0185,Chilli,Dining Chair,Nala
+P0186,Chilli,Dining Chair,Nibe Plus
+P0187,Chilli,Dining Chair,Reciclar
+P0188,Chilli,Dining Chair,Sawako
+P0189,Chilli,Dining Chair,Tyrö
+P0190,Chilli,Dining Chair,Viktoria
+P0191,Chilli,Dining Chair,Winston
+P0192,Chilli,Bed Frame,Berric
+P0193,Chilli,Bed Frame,Desio
+P0194,Chilli,Bed Frame,Diantha
+P0195,Chilli,Bed Frame,Itaca
+P0196,Chilli,Bed Frame,Laargard
+P0197,Chilli,Bed Frame,Lagord
+P0198,Chilli,Bed Frame,Lubbon
+P0199,Chilli,Bed Frame,Madrass
+P0200,Chilli,Bed Frame,Monestier
+P0201,Chilli,Bed Frame,Namn klädsel
+P0202,Chilli,Bed Frame,Noyers
+P0203,Chilli,Bed Frame,Oswaldo
+P0204,Chilli,Bed Frame,Produktinformation
+P0205,Chilli,Bed Frame,Salvenor
+P0206,Chilli,Bed Frame,Saraly
+P0207,Chilli,Mattress,Ardenza
+P0208,Chilli,Mattress,Artino
+P0209,Chilli,Mattress,DUO
+P0210,Chilli,Mattress,HVILA Duo
+P0211,Chilli,Mattress,HVILA Foam
+P0212,Chilli,Mattress,HVILA Latex
+P0213,Chilli,Mattress,HVILA Memory
+P0214,Chilli,Mattress,HVILA Pocket
+P0215,Chilli,Mattress,Hartsville
+P0216,Chilli,Mattress,Manetto
+P0217,Chilli,Mattress,Produktinformation
+P0218,Chilli,Mattress,Resta
+P0219,Chilli,Mattress,Vitoriak
+P0220,Chilli,Mattress,Zafir
+P0221,Chilli,Mattress,Öland
